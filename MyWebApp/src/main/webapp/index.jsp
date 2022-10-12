@@ -6,7 +6,8 @@
     </head>
 <body>
 <h2> 
-	<h2> We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
+	<h2> Kranthi first CICD free style job</h2>
+    <h2> wecome to cicd</h2>
   
 </body>
 </html>
